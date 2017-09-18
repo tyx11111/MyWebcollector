@@ -1,0 +1,64 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebCollector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebCollector_jar</output-path>
+    <root id="archive" name="WebCollector.jar">
+      <element id="module-output" name="WebCollector" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/jna-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/xalan-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/cssparser-0.9.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/httpmime-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/httpclient-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/slf4j-log4j12-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/commons-exec-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/jna-platform-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/学习jar包/all-dependencies-0.5.2/jsoup-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/jsoup-1.9.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/WebCollector-2.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/sac-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/httpmime-4.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/httpcore-4.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/httpclient-cache-4.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/httpclient-4.3.3.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/commons-codec-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/je-5.0.73.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/json-20140107.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/websocket-api-9.4.3.v20170317.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/httpcore-4.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/xml-apis-1.4.01.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/cglib-nodep-3.2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/neko-htmlunit-2.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ContentMonitor/WebContent/WEB-INF/lib/commons-collections-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/guava-21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/serializer-2.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/websocket-common-9.4.3.v20170317.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/htmlunit-2.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/jetty-util-9.4.1.v20170120.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/jetty-io-9.4.1.v20170120.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/phantomjsdriver-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/WebCollector-master/WebCollector-master/webcollector-2.32-bin/juniversalchardet-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/htmlunit-driver-2.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/htmlunit-core-js-2.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/websocket-client-9.4.3.v20170317.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/selenium-java-3.4.0/lib/xercesImpl-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
